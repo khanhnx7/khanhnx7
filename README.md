@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Khánh</h1>
+<h1>Hi 👋, I'm Khanh</h1>
 <h3">A passionate developer from Vietnam</h3>
 <br>
 <br>
